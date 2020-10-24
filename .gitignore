@@ -1,0 +1,13 @@
+**/__pycache__/
+franka/ikpy/__pycache__
+franka/RobotDriver.cpython-36m-aarch64-linux-gnu.so
+franka/RobotDriver/build/
+.pylintrc
+cali_data/**
+networks/DetectNet-COCO-Bottle
+networks/ssd-mobilenet-bottle
+networks/ssd-mobilenet-fruit
+networks/yolov5
+log/**
+yolov5_module.*
+result/
